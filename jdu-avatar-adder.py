@@ -31,4 +31,4 @@ avatar.write('''{
         "visibility": 1
     }
 }''')
-skin.close()
+avatar.close()
